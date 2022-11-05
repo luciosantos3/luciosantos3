@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciosantos3&label=Profile%20views&color=0e75b6&style=flat" alt="luciosantos3" /> </p>
 
-- 🔭 I’m currently working on [crud-fastapi](https://github.com/luciosantos3/crud-fastapi)
+- 🔭 I’m currently working on --
 
-- 🌱 I’m currently learning **Python, Fast API, Angular 9, Docker, AWS**
+- 🌱 I’m currently learning **Java 11, Spring, Observability, Docker, AWS (SQS, SNS, RDS, DynamoDB, S3, EKS, Fargate)**
 
 - 📫 How to reach me **luciosantos3@gmail.com**
 
